@@ -3,10 +3,10 @@
 <h1> 👋 Hey, I'm Vitor </h1>
 <p>
 
- 💻 I'm a Full Stack Developer currently living in  <img src="https://cdn-icons-png.flaticon.com/512/197/197386.png" width="13"/> <b>Goiânia, Brazil</b>
-💪 Driven by challenges and striving to improve every single day
-📕 Fantasy and Science Fiction reader
-🏀 Avid NBA watcher
+ 💻 I'm a Full Stack Developer currently living in  <img src="https://cdn-icons-png.flaticon.com/512/197/197386.png" width="13"/> <b>Goiânia, Brazil</b><br>
+💪 Driven by challenges and striving to improve every single day<br>
+📕 Fantasy and Science Fiction reader<br>
+🏀 Avid NBA watcher<br>
 <img width="18" alt="WoW icon" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/WoW_icon.svg/32px-WoW_icon.svg.png"> Druid in World of Warcraft
 </p>
 <p>
