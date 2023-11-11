@@ -7,13 +7,13 @@
 💪 Driven by challenges and striving to improve every single day<br>
 📕 Fantasy and Science Fiction reader<br>
 🏀 Avid NBA watcher<br>
-<img width="18" alt="WoW icon" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/WoW_icon.svg/32px-WoW_icon.svg.png"> Druid in World of Warcraft
+<img width="16" alt="WoW icon" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/WoW_icon.svg/32px-WoW_icon.svg.png"> Druid in World of Warcraft
 </p>
 <p>
 Feel free to reach out: <br>
 📧 Email: vitor_henrique001@hotmail.com<br>
-<img width="18" alt="Linkedin icon" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/32px-Linkedin_icon.svg.png"> LinkedIn: <a href="https://www.linkedin.com/in/vitor-machado-soares/">vitor-machado-soares</a><br>
-<img width="18" alt="Discord logo" src="https://i.imgur.com/LzdZfBd.png"> Discord: face2face<br>
+<img width="16" alt="Linkedin icon" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/32px-Linkedin_icon.svg.png"> LinkedIn: <a href="https://www.linkedin.com/in/vitor-machado-soares/">vitor-machado-soares</a><br>
+<img width="16" alt="Discord logo" src="https://i.imgur.com/LzdZfBd.png"> Discord: face2face<br>
 </p>
 
 <h2> 🧰 My toolbox </h2>
