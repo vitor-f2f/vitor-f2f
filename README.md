@@ -10,9 +10,10 @@
 <img width="18" alt="WoW icon" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/WoW_icon.svg/32px-WoW_icon.svg.png"> Druid in World of Warcraft
 </p>
 <p>
-Feel free to reach out at: 
-	
-[![Microsoft Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:vitor_henrique001@hotmail.com)<a href="https://www.linkedin.com/in/vitor-machado-soares/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+Feel free to reach out: 
+📧 Email: vitor_henrique001@hotmail.com
+<img width="18" alt="Linkedin icon" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/32px-Linkedin_icon.svg.png"> LinkedIn: [vitor-machado-soares](https://www.linkedin.com/in/vitor-machado-soares/)
+<img width="18" alt="Discord logo" src="https://i.imgur.com/LzdZfBd.png"> Discord: face2face
 </p>
 
 <h2> 🧰 My toolbox </h2>
