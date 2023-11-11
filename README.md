@@ -11,9 +11,9 @@
 </p>
 <p>
 Feel free to reach out: 
-📧 Email: vitor_henrique001@hotmail.com
-<img width="18" alt="Linkedin icon" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/32px-Linkedin_icon.svg.png"> LinkedIn: [vitor-machado-soares](https://www.linkedin.com/in/vitor-machado-soares/)
-<img width="18" alt="Discord logo" src="https://i.imgur.com/LzdZfBd.png"> Discord: face2face
+📧 Email: vitor_henrique001@hotmail.com<br>
+<img width="18" alt="Linkedin icon" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/32px-Linkedin_icon.svg.png"> LinkedIn: [vitor-machado-soares](https://www.linkedin.com/in/vitor-machado-soares/)<br>
+<img width="18" alt="Discord logo" src="https://i.imgur.com/LzdZfBd.png"> Discord: face2face<br>
 </p>
 
 <h2> 🧰 My toolbox </h2>
