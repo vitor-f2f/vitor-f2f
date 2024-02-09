@@ -12,7 +12,6 @@
 <p>
 Feel free to reach out: <br>
 📧 Email: vitor_henrique001@hotmail.com<br>
-<img width="16" alt="Linkedin icon" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/32px-Linkedin_icon.svg.png"> LinkedIn: <a href="https://www.linkedin.com/in/vitor-machado-soares/">vitor-machado-soares</a><br>
 <img width="16" alt="Discord logo" src="https://i.imgur.com/LzdZfBd.png"> Discord: face2face<br>
 </p>
 
